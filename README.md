@@ -1,1 +1,2 @@
 # sttcploud
+Penyimpan private cloud
